@@ -1,0 +1,9 @@
+/* classname always starts with . */
+.title{
+    color: brown;
+}
+.center{
+    text-align: center;
+}
+
+/* BOX model */
